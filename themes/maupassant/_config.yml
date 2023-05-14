@@ -121,7 +121,7 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
 
 info:
   avatar: /img/avatar.png
-  discription: 程序 阅读 记录
+  discription: 编程 阅读 记录
   outlinkitem:   
 
 links:
